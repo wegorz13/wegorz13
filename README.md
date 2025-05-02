@@ -22,7 +22,7 @@ Fullstack app for online shopping. Backend made in Node.js with SQLite DB, front
 
 Complex MS SQL database for a university with every core concept: procedures, triggers, views etc.
 
-### 🌱 I'm currently learning:
+## 🌱 I'm currently learning:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=elixir,rust" />
@@ -30,7 +30,7 @@ Complex MS SQL database for a university with every core concept: procedures, tr
   
   and Neo4j which doesn't have an icon yet :D
   
-### 📫 How to reach me:
+## 📫 How to reach me:
 Email: filipwegrzyn85@gmail.com  
 
 LinkedIn: https://www.linkedin.com/in/filip-wegrzyn-427b37354/  
