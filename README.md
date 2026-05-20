@@ -1,24 +1,23 @@
 ## Hi there 👋
 
-I'm Filip, a software developer and a computer science student at AGH University in Cracow.  I enjoy exploring new technologies,understanding how
-systems work, and contributing to meaningful projects.
+I'm Filip, a software engineer and a computer science student at AGH University in Krakow. I enjoy exploring new technologies, understanding how systems work, and contributing to meaningful projects.
 
 ## Tech I often work with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,elixir,ts,py,nodejs,mongodb,sqlite,react,html,css,git,docker" />
+    <img src="https://skillicons.dev/icons?i=elixir,java,spring,ts,py,nodejs,mongodb,sqlite,react,html,css,git,docker" />
 </a>
 
 
-## 🔭 Featured projects:
+## 🔭 Personal projects:
 ### [Public transport MCP Server/REST API](https://github.com/wegorz13/transit-location-api)
 
-Spring Boot application designed to analyze and process public transport data (GTFS Realtime and Static) for Kraków. The system features a REST API that calculates the fastest direct connections considering real-time delays and calendar exceptions. It implements a Model Context Protocol (MCP) server for AI assistant integration, offering functionality to list stops and forecast upcoming departures.  
+Spring Boot application designed to analyze and process public transport data (GTFS Realtime and Static) for Kraków. The system features a REST API that calculates the fastest direct connections considering real-time delays and calendar exceptions. It implements a Model Context Protocol server for AI assistant integration, offering functionality to list stops and forecast upcoming departures.  
 Built with Java 25 and Spring Data JDBC, utilizing an in-memory H2 database. The project ensures reliability through comprehensive Unit/E2E testing using JUnit 5, Mockito, OkHttp MockWebServer and static code analysis (Sonar).   
 
 ### [Web store](https://github.com/wegorz13/Web_Store)
 
-Full-stack e-commerce application built with React(TypeScript), Express.js and SQLite. Features include user authentication via JWT, account creation, product browsing, shopping cart, order placement, user reviews, and order history tracking.
+Full-stack e-commerce application built with React (TypeScript), Express.js and SQLite. Features include user authentication via JWT, account creation, product browsing, shopping cart, order placement, user reviews, and order history tracking.
 
 ### [University database](https://github.com/wegorz13/University_database)
 
@@ -31,8 +30,8 @@ Based on input configuration the world is created. Animals move randomly, eat an
 Tested in JUnit,built using Gradle.
 
 ## 🌱 I'm currently learning:
-- Computer networks
-- Concurrency
+- Distributed systems
+- Computer vision
 - System design
   
 ## 📫 How to reach me:
